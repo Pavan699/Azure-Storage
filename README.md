@@ -1,3 +1,18 @@
+# Azure-Storages
+versions Used:
+
+Python==3.8.10
+
+azure-storage-blob==12.9.0
+
+azure-storage-file-share==12.6.0
+
+azure-storage-queue==12.1.6
+
+azure-cosmosdb-table==1.0.6
+
+azure-storage-file-datalake==12.5.0
+
 # Azure-Storage
 Python Code for the Azure Blob storage, file storage, queue storage, SQL_table &amp; Azure Datalake
 Steps for manupulating azure storage accounts :
